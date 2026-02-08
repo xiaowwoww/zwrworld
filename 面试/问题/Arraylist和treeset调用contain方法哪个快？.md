@@ -66,3 +66,5 @@
 | **数据量小，或者主要用于遍历/随机访问** | **ArrayList** | 内存占用小，遍历快，随机访问 。 |
 
 所以，如果仅仅为了比拼 `contains` 的速度：**TreeSet 胜出 ArrayList，但 HashSet 胜出所有。**
+
+
